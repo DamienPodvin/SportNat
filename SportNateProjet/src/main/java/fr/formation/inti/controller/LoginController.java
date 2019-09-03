@@ -9,13 +9,13 @@ public class LoginController {
 	
 @RequestMapping("/login")
 	public String login(Model model) {
-		 return "login";
+		 return "view/login";
 		
 	}
 
 @RequestMapping("/accueil")
 public String accueil(Model model) {
-	 return "accueil";
+	 return "view/accueil";
 }
 
 	
