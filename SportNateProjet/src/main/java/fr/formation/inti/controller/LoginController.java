@@ -18,5 +18,8 @@ public String accueil(Model model) {
 	 return "view/accueil";
 }
 
-	
+@RequestMapping("/index")
+public String index(Model model) {
+	 return "view/index";
+}	
 }
