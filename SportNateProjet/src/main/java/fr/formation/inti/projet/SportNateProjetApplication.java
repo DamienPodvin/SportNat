@@ -8,6 +8,7 @@ public class SportNateProjetApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SportNateProjetApplication.class, args);
+		System.out.println("test");
 	}
 
 }
