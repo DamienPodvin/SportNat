@@ -45,4 +45,8 @@ public String statistique(Model model) {
 	 return "view/statistique";
 }
 
+@RequestMapping("/inscription")
+public String inscription(Model model) {
+	 return "view/inscription";
+}
 }
