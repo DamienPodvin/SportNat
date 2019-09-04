@@ -293,3 +293,12 @@ input:valid {
 label {
 	color :white;
 }
+
+header section p{
+	color :white;
+}
+
+.contenu{
+	padding-top:10%;
+	padding-left : 2%;
+}
