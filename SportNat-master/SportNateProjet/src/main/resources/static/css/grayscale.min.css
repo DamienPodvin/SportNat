@@ -214,6 +214,7 @@ footer {
 }
 /* =============Partie Login bootstrap============*/
 
+<<<<<<< HEAD
 body {
 	font-family: Nunito;
 	letter-spacing: .0625em
@@ -292,4 +293,8 @@ input:valid {
 
 label {
 	color :white;
+=======
+.contenu {
+	padding-top: 20%;
+>>>>>>> refs/remotes/origin/dev
 }
