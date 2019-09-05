@@ -40,9 +40,9 @@ public String rechercherAct(Model model) {
 public String proposerAct(Model model) {
 	 return "view/proposerAct";
 }
-@RequestMapping("/statistique")
-public String statistique(Model model) {
-	 return "view/statistique";
+@RequestMapping("/statistiques")
+public String statistiques(Model model) {
+	 return "view/statistiques";
 }
 
 @RequestMapping("/inscription")

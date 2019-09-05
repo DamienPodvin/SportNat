@@ -200,7 +200,7 @@ footer {
 /*--------------- page agenda---------- */
 
 .row-striped:nth-of-type(odd){
-  background-color: #efefef;
+  background-color: #dadada;
   border-left: 4px #000000 solid;
 }
 
@@ -212,6 +212,14 @@ footer {
 .row-striped {
     padding: 15px 0;
 }
+
+.contenu {
+	padding-top: 10%;
+}
+
+
+
+
 /* =============Partie Login bootstrap============*/
 
 <<<<<<< HEAD
@@ -297,4 +305,18 @@ label {
 .contenu {
 	padding-top: 20%;
 >>>>>>> refs/remotes/origin/dev
+}
+
+/* ===============tableau statistiques ============= */
+
+table{
+  border-collapse: collapse;
+  color: white;
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+  color: white;
+  font-family: 'Varela Round';
 }
