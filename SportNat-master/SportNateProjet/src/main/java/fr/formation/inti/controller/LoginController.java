@@ -38,7 +38,7 @@ public String rechercherAct(Model model) {
 }
 @RequestMapping("/proposerAct")
 public String proposerAct(Model model) {
-	 return "view/proposerAct";
+	 return "view/proposeAct";
 }
 @RequestMapping("/statistique")
 public String statistique(Model model) {
